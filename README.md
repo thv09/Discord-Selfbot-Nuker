@@ -1,0 +1,2 @@
+# selfbot-nuker
+selfbot nuke
